@@ -1,3 +1,3 @@
 # kadai1
-## Hello GIT
+*Hello GIT*
 
